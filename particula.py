@@ -22,8 +22,9 @@ class Particula:
             'Destino x: ' + str(self.__destinoX) + '\n' +
             'Destino y: ' + str(self.__destinoY) + '\n' +
             'Velocidad: ' + str(self.__velocidad) + '\n' +
-            'Red: ' + str(self.__red) + '\n' +
-            'Green: ' + str(self.__green) + '\n' +
-            'Blue: ' + str(self.__blue) + '\n' +
+            'Color (rgb): \n'
+            '       Red: ' + str(self.__red) + '\n' +
+            '       Green: ' + str(self.__green) + '\n' +
+            '       Blue: ' + str(self.__blue) + '\n' +
             'Distancia: ' + str(self.__distancia) + '\n'
         )
